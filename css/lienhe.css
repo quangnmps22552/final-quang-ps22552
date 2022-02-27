@@ -1,0 +1,113 @@
+.content video{
+    width: 100%;
+    /* position: sticky;
+    position: -webkit-sticky;
+    top: 0;                      */
+}
+
+.content .card-content{
+    top: 70px;
+    left: 14%;
+    position: absolute;
+    background-color: rgb(10 13 20 / 82%);
+    width: 73%;
+    height: 590px;
+    display: flex;
+    justify-content: space-around;
+    color: white;
+}
+.content .content-left{
+    margin-top: 90px;
+    margin-right: 30px;
+    
+   
+}
+.content .content-left .title{
+    font-weight: 700;
+    font-size: 50px;
+    font-family: sans-serif;
+}
+
+
+.content .content-left .title_small{
+    font-size:18px;
+
+}
+.content .content-left .phone{
+    font-weight: 700;
+    font-family: sans-serif;
+    margin-top: 57px;
+    font-size: 21px;
+
+}
+
+.content .content-left .Email{
+    font-weight: 700;
+    font-family: sans-serif;
+    margin-top: 15px;
+    font-size: 21px;
+
+}
+
+
+
+
+
+.content .content-right{
+    margin-top: 90px;
+    padding: 10px;
+  
+
+}
+
+.content .content-right .row_name{
+    margin-bottom: 13px;
+    display: flex;
+    
+}
+
+
+
+.content-right .row_name .nhap{
+    padding: 6px;
+    margin-right: 20px;
+    outline-color: rgb(245, 9, 9);
+    
+    padding-right: 20px;
+    
+}
+.content-right .row_name .nhap::placeholder{
+    font-weight: 700;
+    font-size:12px;
+    color: black;
+}
+
+
+.content-right .last_row textarea{
+    color: black;
+    padding-left: 5px;
+    margin-right: 21px;
+    margin-bottom: -50px;
+    /* outline-color: rgb(245, 9, 9); */
+    font-weight: 700;
+}
+.content-right .last_row textarea::placeholder{
+    font-weight: 700;
+    color:black;
+}
+
+
+.content-right .last_row button{
+    color: white;
+    border-radius: 50%;
+    padding: 46px;
+    background-color: rgb(184 169 67);
+    font-size: 16px;
+    font-weight: 700;
+    transition: background ease-in 0.3s;
+
+}
+.content-right .last_row button:hover{
+    background-color: #fff;
+    color: black;
+}

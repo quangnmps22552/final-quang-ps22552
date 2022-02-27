@@ -1,0 +1,184 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    width: 100%;
+    height: 40%;
+    margin: 0 auto;
+    min-height: 55px;
+    background: linear-gradient(to right, #151999 30%, #ff99cc 100%)!important;
+    display: flex;
+    justify-content: space-around;
+}
+.container .timkiem{
+    margin-top: 12px;
+    width: 100px;
+    margin-right: 390px;
+   
+    
+}
+.container .timkiem input{
+    width: 225px;
+    height: 37px;
+   
+}
+.container .timkiem .icon img{
+    width: 30px;
+    height: 20px;
+}
+
+   
+    
+
+ 
+
+.container .chua{
+    padding: 0px;
+    margin-top: 21px;
+    padding-right: 62px;
+    display: flex;
+}
+.chua .hotline{
+    margin-left: 10px;
+}
+.container .chua .hotline a{
+    text-decoration: none;
+    
+}
+.container h3{
+    color:rgb(255, 0, 255);
+    margin: 10px;
+}
+.container img{
+    width: 18%;
+    float: left;
+    margin-right: 248px;
+    
+}
+.container1{
+    width: 80%;
+    height: 40%;
+    margin: 0 auto;
+    min-height: 425px;
+    background-color: rgb(255, 17, 0);
+
+}
+.container1 .vt{
+    
+        width: 100%;
+        height: 40%;
+        margin: 0 auto;
+        min-height: 30px;
+        background-color: rgb(255, 204, 153);
+        margin-left: 0px;
+   
+}
+
+.container1 .vt1{
+    width: 50%;
+    margin: 0 auto;
+    float: left;
+    min-height: 250px;
+    background-color: rgb(255, 255, 204);
+}
+.container1 .vt2{
+    width: 50%;
+    margin: 0 auto;
+    float: left;
+    min-height: 250px;
+    background-color: rgb(255, 255, 204);
+
+}
+.container1 .vt3{
+    
+    width: 100%;
+    height: 40%;
+    margin: 0 auto;
+    min-height: 145px;
+    background-color: rgb(255, 255, 204);
+    margin-top: 250px;
+}
+footer{
+    width: 100%;
+    height: 280px;
+    background-color:#333131ab;
+   
+    
+}
+footer .text_footer {
+    padding-top: 22px;  
+    text-align: center;
+    font-size: 41px;
+    color: white;
+    width: 100%;
+}
+.text_email{
+    color: white;
+
+}
+
+footer .element{
+    height: 220px;
+    width: 100%;
+  
+    display: flex;
+}
+
+.fa-instagram{
+    margin-right: 15px;
+
+}
+.element .cot{
+    line-height: 160px;
+    font-size: 144px;
+    color: white;
+    font-weight: 100;
+
+}
+footer .element_icon{
+    margin-left: 420px;
+    margin-top: 78px;
+    font-size: 22px;
+    color: white;
+    display: block;
+    word-spacing: 18px;
+}
+footer .center{
+    margin-top: 45px;
+
+}
+
+footer .center input{
+    width: 294px;
+    height: 34px;
+    outline-color:orangered ;
+    padding-left: 5px;
+
+
+}
+footer .center button{
+    border: 1px solid white;
+    color: white;
+    background-color:rgb(42, 41, 41) ;
+    margin-top: 4px;
+    width: 294px;
+    height: 34px;
+    
+}
+footer .center button:hover{
+    color:rgb(42, 41, 41) ;
+    background-color: white;
+}
+footer .text_right{
+    margin-left: 10px;
+    margin-top: 71px;
+    color: white;
+    font-size: 20px;
+}
+
+
+
+
